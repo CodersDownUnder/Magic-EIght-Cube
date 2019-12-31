@@ -1,0 +1,27 @@
+{
+   "type": "minecraft:crafting_shaped",
+   "pattern": [
+      "IGI",
+      "ICI",
+      "III"
+   ],
+   "key": {
+      "I": {
+         "item": "minecraft:dye",
+         "data": 0
+      },
+      "G": {
+         "item": "minecraft:glass",
+         "data": 0
+      },
+      "C": {
+         "item": "minecraft:stone",
+         "data": 0
+      }
+   },
+   "result": {
+      "item": "magiceightcube:magiceightcube",
+      "data": 0,
+      "count": 1
+   }
+}

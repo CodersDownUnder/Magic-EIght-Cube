@@ -1,0 +1,16 @@
+[
+{
+  "modid": "magiceightcube",
+  "name": "Magic Eight Cube",
+  "description": "Magic Eight Cube adds a Magic Eight Cube",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["trhod177"],
+  "credits": "ryancr5 for the new texture",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
